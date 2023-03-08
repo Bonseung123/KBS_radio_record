@@ -1,0 +1,12 @@
+*.txt
+*.ts
+*.log
+*.err
+*.out
+*.db
+*.code-workspace
+.DS_Store
+__pycache__
+logs/
+notused/
+share/
