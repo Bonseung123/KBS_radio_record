@@ -2,6 +2,8 @@
 recording KBS programs through selenium<br>
 and automation by airflow<br>
 <br>
+KBS 보이는 라디오 녹화 프로그램
+<br>
 Tested environment:<br>
 macOS 13 ventura<br>
 python 3.10<br>
